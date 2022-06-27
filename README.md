@@ -1,7 +1,7 @@
 # Hi! My name is Vladimir
 
 <h4>Welcome to my GitHub profile</h4>
-I'm 24 y.o. Living in Republic of Moldova, Transnistria. I'm interested in technical administration and programming.
+Living in Republic of Moldova. I'm interested in technical administration and programming.
 
 <h3>The programing languages i use</h3>
 <a href="https://www.lua.org/" target="_blank"><img src="https://icon-icons.com/downloadimage.php?id=169007&root=2699/PNG/512/&file=lua_logo_icon_169007.png" width="32" height="32"></a>
