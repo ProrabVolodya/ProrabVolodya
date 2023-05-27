@@ -15,6 +15,8 @@ I'm living in Republic of Moldova. I'm interested in technical administration an
 <a href="https://desktop.github.com/" target="_blank"><img src="https://desktop.github.com/images/desktop-icon.svg"  width="32" height="32"></a>
 <a href="https://sublimetext.com/" target="_blank"><img src="https://www.sublimetext.com/favicon.ico"  width="32" height="32"></a>
 <a href="https://sqlitebrowser.org/" target="_blank"><img src="https://sqlitebrowser.org/favicon.ico"  width="32" height="32"></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://www.mongodb.com/assets/images/global/favicon.ico"  width="32" height="32"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://www.postgresql.org/favicon.ico"  width="32" height="32"></a>
 <a href="https://www.mysql.com/products/workbench/" target="_blank"><img src="https://labs.mysql.com/common/themes/sakila/favicon.ico"  width="32" height="32"></a>
 <a href="https://winscp.net/" target="_blank"><img src="https://winscp.net/favicon.ico"  width="32" height="32"></a>
 <a href="https://www.apachefriends.org" target="_blank"><img src="https://www.apachefriends.org/images/favicon-18f9bd42.png"  width="32" height="32"></a>
